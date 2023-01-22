@@ -1,5 +1,5 @@
 # Tool-For-Parahrasing-text
-Its a tool that paraphrase's simple sentences with using the module nltk
+### Its a tool that paraphrase's simple sentences with using the module nltk
  A video of your program running (1min or less, no voiceover)
 
 
@@ -36,7 +36,7 @@ By abstracting the data in this way, the code is able to manage complexity by no
 
 
 
-My code yese procedural abstraction to modify a sentence by replacing each word with a synonym of that word, chosen at random.
+My code uses procedural abstraction to modify a sentence by replacing each word with a synonym of that word, chosen at random.
 
 A procedure in this code is the for loop, which takes a single argument words a list of words which are tokenized from the sentence. The for loop uses an algorithm that uses sequencing, selection, and iteration. Specifically, it sequences through each word in the list of tokenized words, selects the synonyms for each word using the wordnet.synsets(word) function, and iterates over the list of synonyms to replace the current word with a random synonym. The procedure returns the modified list of words, which is later joined back into a sentence.
 
