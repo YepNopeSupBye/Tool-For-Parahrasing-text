@@ -1,8 +1,11 @@
 # Tool-For-Parahrasing-text
 Its a tool that paraphrase's simple sentences with using the module nltk
  A video of your program running (1min or less, no voiceover)
- 
- 
+
+
+https://user-images.githubusercontent.com/89731394/213918050-cdba759f-7827-42b8-af5f-05f07e8f7472.MOV --- link to viedo
+
+
 * Summarize program's functionality (what does it do?) and purpose (why does it exist and/or who is it for?)
    - the function of my program is to parahrase simple sentences by changing some or one of the words into a different synomym of that word. Its meant for myself and my friends if we need to parahrase a sentence fast for a project, essay or quick homework.
 
