@@ -11,11 +11,11 @@ https://user-images.githubusercontent.com/89731394/213918050-cdba759f-7827-42b8-
 
 
 * A description, with code segments, of a "breakthrough moment" in which you solved a particularly difficult problem, learned to do something new, or independently overcame being stuck
-a breakthrough moment i had was just finding the write code to use to parahrase the phrase, in the beginning i coudlnt figure out a way to change the word to a differnt synomym, and even after looking all over the web it was no where the be found, then eventually i tried combinng the different fucntions i had in preivous codes for my parahrser, and it ended up like working. the segament of code was to find a synonym. 
+    - a breakthrough moment I had was just finding the write code to use to parahrase the phrase, in the beginning i coudlnt figure out a way to change the word to a differnt synomym, and even after looking all over the web it was no where the be found, then eventually i tried combinng the different fucntions i had in preivous codes for my parahrser, and it ended up like working. the segament of code was to find a synonym. 
     
-    for i, word in enumerate(words):
+   - *for i, word in enumerate(words):*
  
-    synonyms = wordnet.synsets(word)
+   - *synonyms = wordnet.synsets(word)*
 
 
 * An explanation of data abstraction as it is used in your program.
